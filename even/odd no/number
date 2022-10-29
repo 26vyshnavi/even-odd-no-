@@ -1,0 +1,9 @@
+# the no is even or odd
+
+x = int(input("enter the no. : "))
+
+if(x%2==0):
+    print("the given no is a even no")
+    
+else:
+    print("the given no is a odd no")
